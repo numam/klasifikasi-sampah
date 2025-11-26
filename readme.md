@@ -130,9 +130,3 @@ Silakan fork repositori ini dan buat pull request untuk perbaikan. Laporkan issu
 
 ## Lisensi
 MIT License - Gunakan bebas untuk tujuan edukasi/penelitian.
-
-## Penulis
-- Dibuat oleh: [Nama Anda] (untuk jurnal SINTA).
-- Kontak: [Email atau GitHub].
-
-Terima kasih! 🚀 Jika ada pertanyaan, buka issue di repositori.
